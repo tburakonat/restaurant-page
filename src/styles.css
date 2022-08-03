@@ -30,6 +30,7 @@ body {
 .navbar--image {
 	-webkit-user-drag: none;
 	margin-left: 30px;
+	cursor: pointer;
 }
 
 .name {
@@ -61,6 +62,7 @@ body {
 .navbar--list li a:hover {
 	text-decoration: underline;
 	color: aliceblue;
+	cursor: pointer;
 }
 
 /* Home Tab Styling */
